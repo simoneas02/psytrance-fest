@@ -1,0 +1,67 @@
+{
+  "festivals": [
+    {
+      "id": 42,
+      "title": "Boom Festival",
+      "page": "https://boomfestival.org/boom2023/",
+      "where": "Portugal",
+      "image": "https://cdn.boomfestival.org/templates/img/background-home-final.jpg"
+    },
+    {
+      "id": 43,
+      "title": "Modem Festival",
+      "page": "https://modemfestival.com/home/",
+      "where": "Croácia",
+      "image": "https://modemfestival.com/wp-content/uploads/2022/10/modem23_home.jpg"
+    },
+    {
+      "id": 44,
+      "title": "Ozora Festival",
+      "page": "https://ozorafestival.eu/",
+      "where": "Hungria",
+      "image": "https://tribalreunion.com/wpfiles/wp-content/uploads/2020/05/ozora-festival-top-1170x781.jpg"
+    },
+    {
+      "id": 45,
+      "title": "Rainbow Serpent",
+      "page": "https://rainbowserpent.net/about/",
+      "where": "Austrália",
+      "image": "https://rainbowserpent.net/wp-content/webp-express/webp-images/uploads/2021/12/DJI_0171-scaled-sized-1.jpg.webp"
+    },
+    {
+      "id": 46,
+      "title": "Universo Paralello Festival",
+      "page": "https://universoparalello.org/en/bemvindo/",
+      "where": "Brasil",
+      "image": "https://universoparalello.org/wp-content/uploads/2021/10/UP_youtube_thumbnail_1280x720-2.png"
+    },
+    {
+      "id": 47,
+      "title": "Origin Festival",
+      "page": "https://originfestival.com/",
+      "where": "Africa do Sul",
+      "image": "https://originfestival.com/wp-content/uploads/2022/11/origin-festival-main-floor.jpg"
+    },
+    {
+      "id": 48,
+      "title": "Hill Top Festival",
+      "page": "https://www.instagram.com/hilltopgoa/?hl=en",
+      "where": "Goa",
+      "image": "https://tribalreunion.com/wpfiles/wp-content/uploads/2020/10/Hill-Top-Festival-India-1170x659.jpg"
+    },
+    {
+      "id": 49,
+      "title": "VooV Festival",
+      "page": "https://www.voov-festival.de/",
+      "where": "Alemanha",
+      "image": "https://le-cdn.website-editor.net/s/0b58ab6bdc8f4349a410aa6cfb2af9d5/dms3rep/multi/opt/voov2022_gfx_top-1920w.jpg?Expires=1676326074&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9sZS1jZG4ud2Vic2l0ZS1lZGl0b3IubmV0L3MvMGI1OGFiNmJkYzhmNDM0OWE0MTBhYTZjZmIyYWY5ZDUvZG1zM3JlcC9tdWx0aS9vcHQvdm9vdjIwMjJfZ2Z4X3RvcC0xOTIwdy5qcGciLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE2NzYzMjYwNzR9fX1dfQ__&Signature=eqQy7-4I7gOFTGP-eEBmGswMacet9cDqcyPXjneeBhJORU8rW73KXhSO1U3FQDwPJN6pHMj8N7yhr8x6TYOhAvuacQUrpa3Wv9zXYP-Vea~Ewp0mUYiJ0ibjTB9aPmi03TSaHmCu6K7J5oK~HO8WsCRxD~H1xiBAA35mY4vIjKtW2nz23ip4qOXDWn46cwvpt6~9DH0D5dD~eO1M3xtuWKFxqddJCg15Gbj74wbEFLB61alqPyx~XAIU1oX5ieiJanzjeL-VLdNzA8Gt2hmWPaKddCZo9Ub9sOaM2rKBIKNxIrTWIydW8838FPY5iHvYc9yPxZ0-EK434inxAHv0yw__&Key-Pair-Id=K2NXBXLF010TJW"
+    },
+    {
+      "id": 50,
+      "title": "Hadra Trance Festival",
+      "page": "https://hadratrancefestival.net/en/about-us/",
+      "where": "França",
+      "image": "https://hadratrancefestival.net/wp-content/uploads/2020/01/69886610_2323777384397709_7437000593333288960_o.jpg.webp"
+    }
+  ]
+}
