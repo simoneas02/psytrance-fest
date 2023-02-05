@@ -27,12 +27,13 @@ export default {
 </script>
 
 <template>
-  <h1>The best Festivals in the world</h1>
+  <h2>The best Festivals in the world</h2>
 
   <div v-if="!festivals">Loading...</div>
   <ul v-else>
-    <li v-for="({ title }, index) in festivals" :key="index">
+    <li v-for="({ title, id }, index) in festivals" :key="`${index}-${id}`">
       {{ title }}
+      <a :href="`/festival-list/${id}`"> Ver detalhes </a>
     </li>
   </ul>
 </template>

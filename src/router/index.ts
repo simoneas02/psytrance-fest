@@ -24,6 +24,11 @@ const router = createRouter({
       name: "festival-list",
       component: () => import("../views/FestivalListView.vue"),
     },
+    {
+      path: "/festival-list/:id",
+      name: "festival-list-details",
+      component: () => import("../views/FestivalDetails.vue"),
+    },
   ],
 });
 
