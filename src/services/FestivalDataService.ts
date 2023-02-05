@@ -1,16 +1,19 @@
-import http from "../http-common";
+import axiosHttpClient from "../infra/axiosHttpClient";
 
 const festivalDataService = () => {
-  const getAll = async () => {
-    try {
-      const { data } = await http.get("/festivals");
-      return [null, data];
-    } catch (error) {
-      return [error];
-    }
-  };
+  const getAll = async () =>
+    await axiosHttpClient().axiosCall({
+      method: "get",
+      url: "/festivals",
+    });
 
-  return { getAll };
+  const get = async (festivalId: string | string[]) =>
+    await axiosHttpClient().axiosCall({
+      method: "get",
+      url: `/festivals?id=${festivalId}`,
+    });
+
+  return { getAll, get };
 };
 
 export default festivalDataService;
