@@ -27,6 +27,9 @@ export default {
 </script>
 
 <template>
+  <nav>
+    <RouterLink to="/">Home</RouterLink>
+  </nav>
   <div
     v-for="({ id, title, image, page, where }, index) in festival"
     :key="`${index}-${id}`"

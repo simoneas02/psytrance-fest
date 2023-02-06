@@ -33,7 +33,7 @@ export default {
   <ul v-else>
     <li v-for="({ title, id }, index) in festivals" :key="`${index}-${id}`">
       {{ title }}
-      <a :href="`/festival-list/${id}`"> Ver detalhes </a>
+      <a :href="`/${id}`"> Ver detalhes </a>
     </li>
   </ul>
 </template>
