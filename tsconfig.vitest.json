@@ -7,5 +7,6 @@
     "types": ["node", "jsdom"],
     "noImplicitAny": false,
     "allowJs": true
-  }
+  },
+  "include": ["*.vue", "*.ts"]
 }
